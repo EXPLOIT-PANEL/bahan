@@ -1,0 +1,5 @@
+Mengupdate Tools IP Port Scanner Menjadi Ip & Domain port Scanner 
+Menghapus Tools Spam WhatsApp v2
+Menghapus Tools Encrypt & Decrypt Teks
+Menambah Tools Domain Grabber
+Menambah Tools Hash Cracker 
